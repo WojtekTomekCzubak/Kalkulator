@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	//Stworz petle while ktora wykonuje sie nieskonczenie dlugo
+	//Zadeklaruj funkcje "dodawanie" "odejmowanie" "mnozenie" "dzielenie"
 }
